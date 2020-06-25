@@ -1,0 +1,2 @@
+# Kawasakitakeoutinfomation
+川崎市のテイクアウト情報アプリです
